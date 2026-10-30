@@ -21,6 +21,15 @@ Aplicação interativa desenvolvida para visualização e análise de dados da a
 
 ---
 
+## 📸 Demonstração Visual
+
+### Visão por município
+
+![Visão por município — filtro e KPIs](assets/visao-municipios.png)
+*Filtro interativo dos 185 municípios, com KPIs de total de votos, votos válidos e líder local*
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5 & CSS3**
@@ -33,5 +42,7 @@ Aplicação interativa desenvolvida para visualização e análise de dados da a
 ## 📂 Estrutura do Repositório
 
 ```text
+├── assets/
+│   └── visao-municipios.png   # Screenshot do painel
 ├── index.html     # Aplicação completa (interface, estilos, scripts e base de dados)
 └── README.md      # Documentação do projeto
